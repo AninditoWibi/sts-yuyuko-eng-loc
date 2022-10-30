@@ -1,0 +1,313 @@
+﻿{
+	"SakuraPower_Pink": {
+
+		"NAME": "Sakura",
+
+		"DESCRIPTIONS": ["Representing the remnants of the departed, #ySakura stacks can trigger the additional effects of #yAetherial cards. You currently have #b"," #ySakura."]
+
+	},
+
+	"ButterflyPower_Pink": {
+
+		"NAME": "Butterfly",
+
+		"DESCRIPTIONS": ["Representing the souls of the dead, #yButterfly stacks can trigger the additional effects of #yAetherial cards. You currently have #b"," #yButterfly."]
+
+	},
+
+	"SakuraDownPower_Pink": {
+
+		"NAME": "Sakura Down",
+
+		"DESCRIPTIONS": ["Lose #b"," #ySakura at the end of your turn."]
+
+	},
+
+	"ButterflyDownPower_Pink": {
+
+		"NAME": "Butterfly Down",
+
+		"DESCRIPTIONS": ["Lose #b"," #yButterfly at the end of your turn."]
+
+	},
+
+	"DeathCoil_Pink": {
+
+		"NAME": "Deadly Butterfly",
+
+		"DESCRIPTIONS": ["Whenever you apply a debuff to an enemy, deal #b"," damage."]
+
+	},
+
+
+	"DeadSpiritPower_Pink": {
+
+		"NAME": "Moribund",
+
+		"DESCRIPTIONS": ["Bearing signs that the end is nigh. This creature deals #b2 less damage for every #b2 stacks of this debuff, up to a maximum of #b5 less damage. When it dies, you heal #b"," HP. A maximum of #b5 HP may be healed this way."]
+	},
+
+	"DeadButterfliesFloatOnPower": {
+
+		"NAME": "Phantom Spirits",
+
+		"DESCRIPTIONS": ["Whenever you are attacked this turn, put #b"," random #bSkill into your hand."," upgraded random #bSkill into your hand."]
+	},
+
+	"DeathWillLastForeverPower": {
+
+		"NAME": "Eternal Death",
+
+		"DESCRIPTIONS": ["Whenever you cause an enemy to lose HP, that enemy gains #b"," #yMoribund.  Whenever an enemy gains #yMoribund, gain #b"," #yBlock."]
+	},
+
+	"DeathByDiffusionPower": {
+
+		"NAME": "Black Death",
+
+		"DESCRIPTIONS": ["Whenever an Attack deals unblocked damage, apply #b"," #yMoribund. At the end of your turn, automatically kill any enemy whose HP is less than twice the amount of their Moribund stacks."]
+	},
+
+	"TheWayToLifePower": {
+
+		"NAME": "Path to Rebirth",
+
+		"DESCRIPTIONS": ["At the end of your turn, shuffle a #yReincarnation into your draw pile. Whenever you draw a Curse, draw #b"," card."]
+	},
+
+	"Sakura_Butterfly_Fantasy_life_Power": {
+
+		"NAME": "Life's Agonies",
+
+		"DESCRIPTIONS": ["The first card you play each turn that grants Sakura or Butterfly grants #b"," more stacks of that power."]
+	},
+
+	"Sakura_Butterfly_Fantasy_FullBloom_Power": {
+
+		"NAME": "Dying Dream",
+
+		"DESCRIPTIONS": ["Your Sakura and Butterfly stacks are no longer capped at #b3."]
+	},
+
+	"Sakura_Butterfly_Fantasy_Death_Power": {
+
+		"NAME": "Death's Toll",
+
+		"DESCRIPTIONS": ["At the end of your turn, gain #yBlock and ALL enemies lose HP equal to twice the amount of your #yPhantasm."]
+	},
+
+	"TheCurseOfTheDeadPower": {
+
+		"NAME": "Curse of the Dead",
+
+		"DESCRIPTIONS": ["At the start of your turn, apply #b"," #yMoribund to all enemies and put #b1 #yQuietus into your hand."]
+	},
+
+	"Sakura_Butterfly_DancePower": {
+
+		"NAME": "Beauty in Death",
+
+		"DESCRIPTIONS": ["After playing #b"," more #bSkills this turn, your next attack will deal double damage."]
+	},
+
+	"ThousandsOfSakuraPower": {
+
+		"NAME": "Thousand Cherry Blossoms",
+
+		"DESCRIPTIONS": ["Whenever you play the rightmost card in your hand, draw #b1 card. This effect can be activated up to #b3 times per turn."]
+	},
+
+	"A_Lonely_Death_Power": {
+
+		"NAME": "A Lonely Death",
+
+		"DESCRIPTIONS": ["Whenever you discard a #yReincarnation, trigger its effect."]
+	},
+
+	"The_memory_of_the_distant_past_Power": {
+
+		"NAME": "Lingering Regrets",
+
+		"DESCRIPTIONS": ["FWhenever you play #b2 #ySkills in a turn, you may choose to exhaust #b"," card to exhaust and discover "," card. It costs 0 this turn."]
+	},
+
+	"DeepGaze_Pink_Power": {
+
+		"NAME": "Gaze of the Abyss",
+
+		"DESCRIPTIONS": ["At the start of your turn, Scry #b",", then draw 1 card."]
+	},
+
+	"TheVoidOfSoul_Power": {
+
+		"NAME": "True Emptiness",
+
+		"DESCRIPTIONS": ["In #b"," turns, all damage received is halved.","This turn, all damage received is halved."]
+	},
+
+	"DoubleDamagePower_Pink": {
+
+		"NAME": "Double Damage",
+
+		"DESCRIPTIONS": ["Your next #b"," #bAttack will deal double damage."]
+	},
+
+	"StrengthDownPower_Pink": {
+
+		"NAME": "Strength Down",
+
+		"DESCRIPTIONS": ["At the end of your turn, lose #b"," #yStrength."]
+	},
+
+	"DexterityDownPower_Pink": {
+
+		"NAME": "Dexterity Down",
+
+		"DESCRIPTIONS": ["At the end of your turn, lose #b"," #yDexterity."]
+	},
+
+
+	"SoulContainerPower_Pink": {
+
+		"NAME": "Soul Overload",
+
+		"DESCRIPTIONS": ["Damage received is increased by #b"," %. Cannot be removed."]
+	},
+
+
+
+	"TipShowPower": {
+
+		"NAME": "To save her...",
+
+		"DESCRIPTIONS": [
+			"You have exhausted #b",
+			" cards.",
+			"You have played #b",
+			" #yAttacks.",
+			"You have played #b",
+			" #ySkills.",
+			"Completed.",
+			"Not completed.",
+			" At the end of your turn, if you have not completed all denoted steps, you will lose #r",
+			" max. HP, and she will #rlose #b20 HP. If you have, she will instead #gheal #b20 HP. ",
+			" #rWARNING: Your life is bound to hers. If she dies, #rso #rwill #ryou. ",
+			" #gSurvive #gfor #g6 #gturns. "
+		]
+	},
+
+	"TipShowPower_Special_Pink": {
+
+		"NAME": "Border Sealing",
+
+		"DESCRIPTIONS": [
+			"Total cards played: #b",
+			"Attacks played: #b",
+			"Skills played: #b",
+			" cards.",
+			"Completed.",
+			"Not completed.",
+			"If you have completed all tasks:",
+			"The enemy will be #yStunned for #b1 turn.",
+			"The enemy's #yTenacity will be #gsuppressed for #b3 turns, temporarily negating its effects.",
+			"Next turn, gain [E] [E] and draw 2 additional cards.",
+			"The enemy will lose #b3 #yStrength, and you will gain #b2 #yStrength and #b1 #yDexterity."
+		]
+	},
+
+
+	"DispersedCherryButterfliesPower_Pink":{
+
+		"NAME": "Soul Dispersion",
+
+		"DESCRIPTIONS": [
+			"Every #b10 turns, your #ySakura and #yButterfly stacks are completely removed."
+		]
+	},
+
+	"TheVoiceOfDeath_Pink": {
+
+		"NAME": "Calling From Hell",
+
+		"DESCRIPTIONS": [
+			"#yReincarnation's potency may only be increased by its own effect. All other effects that would affect #yReincarnation no longer work."
+		]
+	},
+
+	"SpecialInvinciblePower_Pink": {
+
+		"NAME": "High Invincibility",
+
+		"DESCRIPTIONS": [
+			"Limits all damage and HP loss taken to #r200 each turn. Whenever this creature would take damage or lose HP, it would only lose at most #r1% of its maximum HP."
+		]
+	},
+
+	"EaterOfSouls_Pink": {
+
+		"NAME": "Souleater",
+
+		"DESCRIPTIONS": [
+			"Whenever you play #b5 #yAttacks, this creature gains #b50 #yBlock."
+		]
+	},
+
+	"StagePower_1_Pink": {
+
+		"NAME": "Gathering Storm",
+
+		"DESCRIPTIONS": [
+			"Host to a #rrapidly #ramalgamating #ymass #yof #yenergy."
+		]
+	},
+
+	"StagePower_2_Pink": {
+
+		"NAME": "A Friend's Support",
+
+		"DESCRIPTIONS": [
+			"#gYour #gfriend is preparing an #genchantment to defend against the enemy. #yEndure #yits #yassault!",
+			"The enchantment has been completed!"
+		]
+	},
+
+
+	"AutomaticBarrierPower_Pink": {
+
+		"NAME": "Demonic Defense",
+
+		"DESCRIPTIONS": [
+			"Gains #b2 #yBuffer every #b4 turns."
+		]
+	},
+
+	"ConsciousnessAbsorptionPower_Pink": {
+
+		"NAME": "Mindsapper",
+
+		"DESCRIPTIONS": [
+			"Every #b2 turns, put #b3 #rDazed into your discard pile."
+		]
+	},
+
+	"TenacityPower_Pink": {
+
+		"NAME": "Tenacity",
+
+		"DESCRIPTIONS": [
+			"Reduce all damage taken by #b",
+			" %. This effect is #gdecreased by #b10% for each card played this turn.",
+			"(This power is being suppressed for #b",
+			" turns!)"
+		]
+	},
+
+	"SpecialSkipPower_Pink": {
+		"NAME": "Order of the Demon",
+		"DESCRIPTIONS": [
+			"Whenever you play #b",
+			" cards, ends your turn and gains #b",
+			" #yStrength."
+		]
+	}
+}

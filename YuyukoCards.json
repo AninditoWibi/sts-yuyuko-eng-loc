@@ -1,0 +1,405 @@
+{
+	"Attack_Yuyuko_Pink": {
+		"NAME":"Strike",
+		"DESCRIPTION": "Deal !D! damage."
+	},
+	"Defend_Yuyuko_Pink": {
+		"NAME":"Defend",
+		"DESCRIPTION": "Gain !B! Block ."
+	},
+	"Perplexed_Pink": {
+		"NAME":"Perplexed Mind",
+		"DESCRIPTION": "Gain !B! Block. Aetherial. NL Sakura 1: Discard 1 card. NL Butterfly 1: Apply !M! Moribund to a random enemy."
+	},
+	"Temptations_Pink": {
+		"NAME":"Tempted Mind",
+		"DESCRIPTION": "Delicate. NL Deal !D! damage to a random enemy. NL If this card is discarded from your hand, draw 1 card."
+	},
+
+
+	"FutureLife_Pink": {
+		"NAME":"Reincarnation",
+		"DESCRIPTION": "Unplayable. Ethereal. NL At the end of your turn, all enemies lose !M! HP. NL The next time this effect triggers, its potency is increased by 1."
+	},
+	"Apoptosis_Special_Pink": {
+		"NAME":"Quietus",
+		"DESCRIPTION": "Retain. NL All enemies lose HP equal to their Moribund. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Retain. NL All enemies lose HP equal to their Moribund. Draw 1 card and gain [E] . NL Exhaust."
+	},
+
+	"MagnificenceOfRealm": {
+		"NAME":"Gift of Magnificence",
+		"DESCRIPTION": "Gain !M! Strength and Dexterity."
+	},
+	"TheWillToResurrect": {
+		"NAME":"Gift of Reincarnation",
+		"DESCRIPTION": "Add !M! Reincarnation into your hand."
+	},
+	"TheWorldOfTheDead": {
+		"NAME":"Gift of Repose",
+		"DESCRIPTION": "Apply !M! Moribund to all enemies twice."
+	},
+
+	"Accumulation_Sakura_Pink": {
+		"NAME":"Amassed Blossoms",
+		"DESCRIPTION": "Draw 3 cards and discard 1 card. NL Lose 2 Sakura at the end of your turn."
+	},
+	"Release_Sakura_Pink": {
+		"NAME":"Released Blossoms",
+		"DESCRIPTION": "Return a card from your discard pile into your hand."
+	},
+	"Accumulation_Butterfly_Pink": {
+		"NAME":"Amassed Wings",
+		"DESCRIPTION": "This turn, whenever you apply a debuff to an enemy, they take 3 damage. NL Lose 2 Butterfly at the end of your turn."
+	},
+	"Release_Butterfly_Pink": {
+		"NAME":"Released Wings",
+		"DESCRIPTION": "Gain 1 Artifact."
+	},
+
+
+	"ButterflyDance_Pink": {
+		"NAME":"Butterfly Delusion",
+		"DESCRIPTION": "Next turn, gain [E] . Aetherial. NL Sakura 2: Gain !M! Strength. NL Butterfly 1: Discard 1 card.",
+		"UPGRADE_DESCRIPTION": "Next turn, gain [E] [E] . Aetherial. NL Sakura 2: Gain !M! Strength. NL Butterfly 1: Discard 1 card."
+	},
+	"DeathButterfly_Pink": {
+		"NAME":"Dead Butterfly",
+		"DESCRIPTION": "Deal !D! damage. If you have discarded a card this turn, exhaust a random card in your hand and choose 1 of 3 random cards to add into your hand. It costs 0 this turn.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. If you have discarded a card this turn, exhaust a card in your hand and choose 1 of 3 random cards to add into your hand. It costs 0 this turn."
+	},
+	"DeathSoulSpear_Pink": {
+		"NAME":"Swallowtail Lance",
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand or exhausted, deal !D! damage to all enemies and gain 1 Sakura."
+	},
+	"DreamInterrupted_Pink": {
+		"NAME":"Broken Dream",
+		"DESCRIPTION": "Gain !B! Block. Gain 1 Sakura. NL If the previous card played was an Attack, increase the potency of all Reincarnation cards by !M!."
+	},
+	"EndlessRoad_Pink": {
+		"NAME":"Trackless Path",
+		"DESCRIPTION": "Delicate. NL Apply !M! Weak and Moribund. If this card is discarded from your hand, gain 1 Sakura."
+	},
+	"EndlessSuffering_Pink": {
+		"NAME":"Tormented Souls",
+		"DESCRIPTION": "Put !M! Reincarnation into your hand and draw 1 card, then gain Block equal to the amount of cards in your hand. NL Exhaust."
+	},
+	"GhastlyDream_Pink": {
+		"NAME":"Ghastly Dream",
+		"DESCRIPTION": "Deal !D! damage. If playing this card would spend all your remaining [E] , gain [E] [E] . Otherwise, deal !D! damage again."
+	},
+	"OnlyMySakura_Pink": {
+		"NAME":"Weeping Higan",
+		"DESCRIPTION": "Gain !B! Block. Aetherial. NL Sakura or Butterfly 1: Put 1 Reincarnation into your hand."
+	},
+	"SakurasDance_Pink": {
+		"NAME":"Pale Blossoms",
+		"DESCRIPTION": "Gain !B! Block. Apply !M! Moribund. NL If the target intends to attack, apply !M! Weak."
+	},
+	"SenseOfElegance_Pink":{
+		"NAME":"Sense of Elegance",
+		"DESCRIPTION": "Deal !D! damage. NL If the target has at least 8 Moribund, gain [E] [E] [E] ."
+	},
+	"SoulLash_Pink": {
+		"NAME":"Soul Strike",
+		"DESCRIPTION": "Deal !D! damage and apply !M! Vulnerable and Moribund to all enemies."
+	},
+	"TheLastLife_Pink": {
+		"NAME":"Suicidal Thought",
+		"DESCRIPTION": "Gain !B! Block. If you have less than 4 Phantasm, gain an additional !B! Block. Otherwise, gain 1 Dexterity."
+	},
+	"TheNextLifeWillComes_Pink": {
+		"NAME":"Past Sin",
+		"DESCRIPTION": "Draw !M! card. Discard !M! card. Put 1 Reincarnation into your hand."
+	},
+	"UnderworldReturn_Pink": {
+		"NAME":"Transient Force",
+		"DESCRIPTION": "Gain !M! Strength and Dexterity. Lose !M! Strength and Dexterity at the end of your turn."
+	},
+	"UnderworldRoad_Pink": {
+		"NAME":"Yomotsu Hirasaka",
+		"DESCRIPTION": "Deal !D! damage. Aetherial. NL Sakura 1: Apply !M! Moribund. NL Butterfly 1: Put 1 Quietus into your hand.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. Aetherial. NL Sakura 1: Apply !M! Moribund. NL Butterfly 1: Put 1 upgraded Quietus into your hand."
+	},
+	"WanderingSoul_Pink": {
+		"NAME":"Wandering Soul",
+		"DESCRIPTION": "Deal !D! damage. Draw 1 card and discard 1 card. NL If the previous card played was a Skill, apply !M! Moribund.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. Draw 2 cards and discard 1 card. NL If the previous card played was a Skill, apply !M! Moribund."
+	},
+
+
+	"Apoptosis_Pink": {
+		"NAME":"Soul Apoptosis",
+		"DESCRIPTION": "Retain. NL Exhaust all Curses in your hand. For each Curse exhausted this way, apply !M! Moribund. Put 1 Quietus into your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Exhaust all Curses in your hand. For each Curse exhausted this way, apply !M! Moribund. Put 1 upgraded Quietus into your hand. NL Exhaust."
+	},
+	"BeComeTheButterfly_Pink": {
+		"NAME":"Swallowtail Blast",
+		"DESCRIPTION": "Deal !D! damage. Gain 1 Butterfly. Aetherial. NL Sakura 2: Damage dealt is increased by your Block."
+	},
+	"BuriedBySakura_Pink": {
+		"NAME":"Saigyou Blizzard",
+		"DESCRIPTION": "Target enemy loses !D! HP. Aetherial. NL Sakura 1: Steal the target's Block. NL Butterfly 1: Next turn, gain [E] ."
+	},
+	"ButterflyDream_Pink": {
+		"NAME":"Butterfly Dream",
+		"DESCRIPTION": "Draw !M! card. Gain 1 Butterfly. NL Gain Block equal to the amount of cards in your hand."
+	},
+	"DeadButterfliesFloatOn_Pink": {
+		"NAME":"Phantom Spirits",
+		"DESCRIPTION": "Gain !B! Block. Aetherial. NL Butterfly 2: Whenever you are attacked this turn, put a random Skill into your hand.",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. Aetherial. NL Butterfly 2: Whenever you are attacked this turn, put a random upgraded Skill into your hand."
+	},
+	"DeathByDiffusion_Pink": {
+		"NAME":"Black Death",
+		"DESCRIPTION": "Whenever an Attack deals unblocked damage, apply !M! Moribund. NL At the end of your turn, if any enemy's HP is less than twice the amount of their Moribund stacks, set their HP to 0."
+	},
+	"DeathIsTheEndOfLife_Pink": {
+		"NAME":"Life's Termination",
+		"DESCRIPTION": "All enemies lose !D! HP, increased by the amount of Phantasm. NL If you have less than 4 Phantasm, draw 2 cards. Otherwise, all enemies lose twice as much HP."
+	},
+	"DeathSuffer_Pink": {
+		"NAME":"Corpseblood",
+		"DESCRIPTION": "Gain !B! Block twice. If this card is discarded from your hand, gain [E] and increase the amount of Block granted by !M!."
+	},
+	"DeathWillLastForever_Pink": {
+		"NAME":"Eternal Death",
+		"DESCRIPTION": "Whenever you cause an enemy to lose HP, that enemy gains !M! Moribund. Whenever an enemy gains Moribund, gain !M! Block.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Whenever you cause an enemy to lose HP, that enemy gains !M! Moribund. Whenever an enemy gains Moribund, gain !M! Block."
+	},
+	"EndlessDeath_Pink": {
+		"NAME":"Circle of Death",
+		"DESCRIPTION": "Deal !D! damage, increased by !M! times the amount of Moribund on the target. If the target has less than 5 Moribund, deal 5 more damage."
+	},
+	"EnlightenmentForTheFuture_Pink": {
+		"NAME":"Midnight Rain",
+		"DESCRIPTION": "Delicate. NL Put !M! card from your draw pile into your hand."
+	},
+	"FlowerButterflyPretty_Pink": {
+		"NAME":"Moonlit Grief",
+		"DESCRIPTION": "Unplayable. NL If this card is discarded from your hand, draw !M! cards. If this card is exhausted, gain 1 Sakura and Butterfly."
+	},
+	"GhostSpot_Pink": {
+		"NAME":"Ghost Spot",
+		"DESCRIPTION": "Lose 3 HP. NL Draw cards until you have !M! cards in your hand. NL Exhaust."
+	},
+	"I_am_with_Sakura_Pink": {
+		"NAME":"Bereavement",
+		"DESCRIPTION": "Gain !B! Block twice. Aetherial. NL Butterfly 2: Discard 2 cards."
+	},
+	"Inevitability_Pink": {
+		"NAME":"Lethal Senescence",
+		"DESCRIPTION": "Deal !D! damage. NL Gain Block equal to !M! times the target's Moribund."
+	},
+	"Lead_A_Befuddled_Life_Pink": {
+		"NAME":"Bewilderment",
+		"DESCRIPTION": "Unplayable. Unearthly. NL If this card is discarded from your hand or exhausted, gain [E] .",
+		"UPGRADE_DESCRIPTION": "Unplayable. Unearthly. NL If this card is discarded from your hand or exhausted, gain [E] [E] ."
+	},
+	"LifeIsWandering_Pink": {
+		"NAME":"Ghostly Elegance",
+		"DESCRIPTION": "Gain 1 Strength and Dexterity. Aetherial. NL Sakura 1: Increase Strength gain by 1. NL Butterfly 1: Increase Dexterity gain by 1."
+	},
+	"NightSakura_Pink": {
+		"NAME":"Nightbloom",
+		"DESCRIPTION": "Gain !B! Block twice. Aetherial. NL Sakura 2: Gain the same amount of Block two more times. NL Butterfly 2: Also gain !M! Plated Armor."
+	},
+	"RemembranceOfPastLives_Pink": {
+		"NAME":"Remembrance",
+		"DESCRIPTION": "Heal !M! HP. Discard 2 cards. NL Put !M! Reincarnation into your hand. NL Exhaust."
+	},
+	"SakuraFantasy_Pink": {
+		"NAME":"Deadly Dance",
+		"DESCRIPTION": "Deal !D! damage and gain !B! Block. NL If you have less than 4 Phantasm, gain [E] [E] . Otherwise, lose [E] and double the amount of damage dealt and Block gained. NL Exhaust."
+	},
+	"SnowAndFlowers_Pink": {
+		"NAME":"Death's Chill",
+		"DESCRIPTION": "Deal !D! damage 6 times. NL Whenever you gain Sakura or Butterfly, this card's damage is increased by the same amount. If this card is discarded from your hand, gain 1 Sakura and Butterfly."
+	},
+	"TheButterflyInTheDeep_Pink": {
+		"NAME":"Aetheric Papillon",
+		"DESCRIPTION": "Deal !D! damage. NL If the target has Moribund, increase the potency of all Reincarnation cards by half the amount of Moribund stacks.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL If the target has Moribund, increase the potency of all Reincarnation cards by the amount of Moribund stacks."
+	},
+	"TheDeepCalls_Pink": {
+		"NAME":"Abyssal Call",
+		"DESCRIPTION": "Discard all cards in your hand. Draw cards equal to the amount discarded. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Discard all cards in your hand. Draw cards equal to the amount discarded."
+	},
+	"TheDeepErosion_Pink": {
+		"NAME":"Putrefaction",
+		"DESCRIPTION": "Deal !D! damage twice. If this card is discarded from your hand, increase its damage by !M! and draw 2 cards."
+	},
+	"TheFeastOfDeath_Pink": {
+		"NAME":"Feast of Death",
+		"DESCRIPTION": "Delicate. NL Gain !B! Block and apply !M! Weak to all enemies."
+	},
+	"TheHell_Pink": {
+		"NAME":"Hell of Blossoms",
+		"DESCRIPTION": "Exhaust a card. NL If it's an Attack, gain 1 Sakura. If it's a Skill, gain 1 Butterfly. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Exhaust a card. NL If it's an Attack, gain 1 Sakura. If it's a Skill, gain 1 Butterfly."
+	},
+	"TheLastWish_Pink": {
+		"NAME":"Deathwish",
+		"DESCRIPTION": "Gain !B! Block. Increase the potency of all Reincarnation cards by !M!. NL Exhaust."
+	},
+	"TheLureOfDeath_Pink": {
+		"NAME":"Haunting Grasp",
+		"DESCRIPTION": "Deal !D! damage. Aetherial. NL Sakura 1: Increase the potency of all Reincarnation cards by !M! damage. NL Butterfly 1: Gain 1 Sakura."
+	},
+	"TheMagnificenceOfImmortality_Pink": {
+		"NAME":"Immortal's Obol",
+		"DESCRIPTION": "Deal !D! damage to all enemies. For each enemy alive, add !M! Reincarnation into your hand."
+	},
+	"ThereIsNoDream_Pink": {
+		"NAME":"Ageless Dream",
+		"DESCRIPTION": "Discard 3 cards. NL Gain [E] [E] . Aetherial. NL Sakura 3: Draw 2 cards.",
+		"UPGRADE_DESCRIPTION": "Discard 2 cards. NL Gain [E] [E] . Aetherial. NL Sakura 3: Draw 2 cards."
+	},
+	"TheWayToLife_Pink": {
+		"NAME":"Path to Rebirth",
+		"DESCRIPTION": "At the end of your turn, shuffle a Reincarnation into your draw pile. Whenever you draw a Curse, draw 1 card.",
+		"UPGRADE_DESCRIPTION": "Retain. NL At the end of your turn, shuffle a Reincarnation into your draw pile. Whenever you draw a Curse, draw 1 card."
+	},
+	"UnableToNirvana_Pink": {
+		"NAME":"Light Trap",
+		"DESCRIPTION": "Play and exhaust the top !M! cards from your draw pile. For each Reincarnation exhausted this way, trigger its effect. NL Exhaust."
+	},
+	"UnderworldEntice_Pink": {
+		"NAME":"Summons to Yomi",
+		"DESCRIPTION": "Apply !M! Moribund to all enemies twice. Aetherial. NL Sakura 2: Double your Block. NL Butterfly 2: Also apply 3 Vulnerable. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Apply !M! Moribund to all enemies twice. Aetherial. NL Sakura 2: Double your Block. NL Butterfly 2: Also apply 4 Vulnerable. NL Exhaust."
+	},
+	"UnderworldLights_Pink": {
+		"NAME":"Dark Refulgence",
+		"DESCRIPTION": "Delicate. NL Deal !D! damage and apply !M! Moribund to all enemies."
+	},
+	"WeepingSakura_Pink": {
+		"NAME":"Mourner's Tears",
+		"DESCRIPTION": "Deal !D! damage. Aetherial. NL Sakura 2: Apply !M! Moribund. NL Butterfly 2: Apply Moribund to all other enemies equal to the target's Moribund."
+	},
+	"WhyToBecomeBuddha_Pink": {
+		"NAME":"Soul Transcendence",
+		"DESCRIPTION": "Gain !B! Block. Aetherial. NL Sakura 1: Block is not removed at the start of your next turn. NL Butterfly 1: Add !M! Reincarnation into your hand."
+	},
+
+
+	"A_Lonely_Death_Pink": {
+		"NAME":"A Lonely Death",
+		"DESCRIPTION": "Whenever you discard a Reincarnation, trigger its effect.",
+		"UPGRADE_DESCRIPTION": " Innate. NL Whenever you discard a Reincarnation, trigger its effect."
+	},
+	"Being_Towards_Death_Pink": {
+		"NAME":"Memento Mori",
+		"DESCRIPTION": "Unplayable. NL Add 2 Reincarnation into your hand when this card is drawn. If this card is discarded from your hand, all enemies lose HP equal to the amount of cards played this turn.",
+		"UPGRADE_DESCRIPTION": "Unplayable. NL Add 2 Reincarnation into your hand and draw a card when this card is drawn. If this card is discarded from your hand, all enemies lose HP equal to the amount of cards played this turn."
+	},
+	"Blooming_Gracefully_Pink": {
+		"NAME":"Bloom Nobly",
+		"DESCRIPTION": "Lose 4 HP. NL Choose a card to discard. Put 2 copies of the discarded card into your hand. NL Exhaust."
+	},
+	"ChangeoverTheLife_Pink": {
+		"NAME":"Ego Death",
+		"DESCRIPTION": "Deal !D! damage twice. If the target has 5 or less Moribund, decrease the damage of this card by 2 this combat."
+	},
+	"Complete_Ink_Sakura_Pink": {
+		"NAME":"Ink-Black Sakura",
+		"DESCRIPTION": "Next turn, draw 3 cards. Aetherial. NL Sakura 2: Next turn, all damage dealt is doubled. NL Butterfly 2: Take an extra turn after this one. Ending. NL Exhaust."
+	},
+	"DeepButterfly_Pink": {
+		"NAME":"Self-Loss",
+		"DESCRIPTION": "Deal !D! damage. NL Remove a random buff from a weak\u00A0enemy. If you have at least 6 Phantasm, any enemy may be affected instead. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Remove a random buff from a weak\u00A0enemy. If you have at least 6 Phantasm, any enemy may be affected instead."
+	},
+	"Sakura_Butterfly_Dance_Pink":{
+		"NAME":"Beauty in Death",
+		"DESCRIPTION": "Whenever you play 2 Skills in a turn, your next Attack will deal double damage.",
+		"UPGRADE_DESCRIPTION": "Innate. NL Whenever you play 2 Skills in a turn, your next Attack will deal double damage."
+	},
+
+	"Sakura_Butterfly_Fantasy_life_Pink": {
+		"NAME":"Life's Agonies",
+		"DESCRIPTION": "Sequential. NL The first card you play each turn that grants Sakura or Butterfly grants 1 more. NL Ethereal.",
+		"UPGRADE_DESCRIPTION": "Sequential. Innate. NL The first card you play each turn that grants Sakura or Butterfly grants 1 more. NL Ethereal."
+	},
+	"Sakura_Butterfly_Fantasy_FullBloom_Pink": {
+		"NAME":"Dying Dream",
+		"DESCRIPTION": "Sequential. NL Sakura and Butterfly stacks are no longer capped at 3.",
+		"UPGRADE_DESCRIPTION": "Sequential. NL Sakura and Butterfly stacks are no longer capped at 3. NL Draw 1 card."
+	},
+	"Sakura_Butterfly_Fantasy_Death_Pink": {
+		"NAME":"Death's Toll",
+		"DESCRIPTION": "At the end of your turn, gain Block and ALL enemies lose HP equal to twice the amount of your Phantasm. NL Ethereal.",
+		"UPGRADE_DESCRIPTION": "At the end of your turn, gain Block and ALL enemies lose HP equal to twice the amount of your Phantasm."
+	},
+
+	"Sakura_Butterfly_Wish_Pink": {
+		"NAME":"Gifts for the Dead",
+		"DESCRIPTION": "Choose one: Apply !M! Moribund to all enemies twice, gain !M! Strength and Dexterity, or put !M! Reincarnation into your hand. NL Exhaust."
+	},
+	"Sakura_Volition_Pink": {
+		"NAME":"Law of Mortality",
+		"DESCRIPTION": "Deal X damage Y times to all enemies, where X equals Sakura times Butterfly, and Y equals your Phantasm.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Deal X damage Y times to all enemies, where X equals Sakura times Butterfly, and Y equals your Phantasm."
+	},
+	"SoulReturn_Butterfly_Pink": {
+		"NAME":"Spirit Butterfly",
+		"DESCRIPTION": "Retain. NL Discard any amount of cards from your hand. For each card discarded this way, all enemies lose !M! HP."
+	},
+	"The_lord_of_Underworld_Pink": {
+		"NAME":"Nether Invitation",
+		"DESCRIPTION": "Playable only if you have played an Attack, Skill, and Power this turn. NL Kill a random weak\u00A0enemy. Gain !M! max. HP. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Playable only if you have played an Attack, Skill, and Power this turn. NL Kill a random weak\u00A0enemy. Gain !M! max. HP. NL Exhaust."
+	},
+	"The_memory_of_the_distant_past_Pink": {
+		"NAME":"Lingering Regrets",
+		"DESCRIPTION": "Whenever you play 2 Skills in a turn, you may choose to exhaust a card in your hand and choose 1 of 3 random cards to add into your hand. It costs 0 this turn."
+	},
+	"TheCurseOfTheDead_Pink": {
+		"NAME":"Curse of the Dead",
+		"DESCRIPTION": "At the start of your turn, apply !M! Moribund to all enemies and put 1 Quietus into your hand.",
+		"UPGRADE_DESCRIPTION": "At the start of your turn, apply !M! Moribund to all enemies and put 1 upgraded Quietus into your hand."
+	},
+	"TheDeepGaze_Pink": {
+		"NAME":"Gaze of the Abyss",
+		"DESCRIPTION": "At the start of your turn, Scry 2, then draw 1 card.",
+		"UPGRADE_DESCRIPTION": "Innate. NL At the start of your turn, Scry 2, then draw 1 card."
+	},
+	"TheGhostdomSakura_Pink": {
+		"NAME":"Border of Life",
+		"DESCRIPTION": "Deal !D! damage. Aetherial. NL Sakura 1: Draw !M! card. NL Butterfly 1: Gain [E] .",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. Aetherial. NL Sakura 1: Draw !M! card. NL Butterfly 1: Gain [E] [E] ."
+	},
+	"TheSoulOfPure_Pink": {
+		"NAME":"Parinirvana",
+		"DESCRIPTION": "Gain !B! Block. Aetherial. NL Sakura 2: Block gained is doubled. NL Exhaust."
+	},
+	"TheVoidOfSoul_Pink": {
+		"NAME":"True Emptiness",
+		"DESCRIPTION": "Every 2 turns, all damage received is halved.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Every 2 turns, all damage received is halved."
+	},
+	"ThousandsOfSakura_Pink": {
+		"NAME":"Endless Spring",
+		"DESCRIPTION": "Whenever you play the rightmost card in your hand, draw 1 card. This effect can be activated up to 3 times per turn."
+	},
+
+
+
+
+	"test1": {
+		"NAME":"test1",
+		"DESCRIPTION": ""
+	},
+
+	"test2": {
+		"NAME":"test2",
+		"DESCRIPTION": ""
+	},
+
+	"test3": {
+		"NAME":"test3",
+		"DESCRIPTION": ""
+	}
+
+}

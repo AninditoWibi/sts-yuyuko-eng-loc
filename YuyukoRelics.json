@@ -1,0 +1,85 @@
+{
+	"SakuraAndButterfly_Relic_Pink": {
+		"NAME":"Phantasmal Uchiwa",
+		"FLAVOR":"A fixed fan crafted from cypress and thread, imbued with an unimaginable amount of Netherworld energy.",
+		"DESCRIPTIONS":["Whenever you defeat an Elite, gain #b1 #yAethercharge. #yRight #yclick: Draw #b1 card and discard #b1 card. Usable once per combat."]
+	},
+
+	"ConfusedSoul_Pink": {
+		"NAME":"Memories of the Clan",
+		"FLAVOR":"An ethereal reminder of the Saigyouji's clan unending mission: to keep the \"demon tree\" - the Saigyou Ayakashi - sealed.",
+		"DESCRIPTIONS":["At the start of each combat, appply #b3 #yMoribund to all enemies."]
+	},
+
+	"TheExhort_Pink": {
+		"NAME":"Ancient Notes",
+		"FLAVOR":"Written in a script from times long gone, these notes hearken to the memories from a previous life.",
+		"DESCRIPTIONS":["Whenever a #yReincarnation card triggers its effects, gain #b2 #yBlock."]
+	},
+
+	"VowsOfThePast_Pink": {
+		"NAME":"1000-Year Vow",
+		"FLAVOR":"\"To seal the Saigyou Ayakashi, I shall offer the blood of a Saigyouji - my own blood, life, and memories...\"",
+		"DESCRIPTIONS":["Upon pickup, reduce your maximum HP to #r40% of its initial value. At the start of each combat, gain #b3 #yIntangible."]
+	},
+
+	"TheStoryOfOrigination_Pink": {
+		"NAME":"Tales of a Beginning",
+		"FLAVOR":"A written account of the first meeting between a Saigyouji heiress and a woman with peculiar powers, who eventually became lifelong friends.",
+		"DESCRIPTIONS":["Whenever you discard a card during your turn, deal #b3 damage to a random enemy for each card discarded."]
+	},
+
+	"TheStoryOfFight_Pink": {
+		"NAME":"Tales of a Tragedy",
+		"FLAVOR":"A written account of a brutal massacre of the Saigyouji clan, and how the resulting bloodbath reawakened the Saigyou Ayakashi.",
+		"DESCRIPTIONS":["Whenever you attack an enemy with #yMoribund, heal #b1 HP and gain #b1 Block. At the start of each turn, lose #b2 HP."]
+	},
+
+	"TheStoryOfSacrifice_Pink": {
+		"NAME":"Tales of a Sacrifice",
+		"FLAVOR":"A written account of the last moments a Saigyouji heiress, before she sacrificed herself to seal the Saigyou Ayakashi once more.",
+		"DESCRIPTIONS":["At the end of turn #b4, gain #yStrength equal to your #yPhantasm."]
+	},
+
+	"TheStoryOfSaving_Pink": {
+		"NAME":"Tales of a Resurrection",
+		"FLAVOR":"A written account penned by a woman who used her peculiar powers to save her fallen friend, warping her own body in the process. It's signed, at the bottom - \"Yukari\".",
+		"DESCRIPTIONS":["At the start of each turn, gain [E] for every #b3 #yAethercharge."]
+	},
+
+	"TheLastStory_Pink": {
+		"NAME":"Tales of a Resolution",
+		"FLAVOR":"A written account of a past life, of memories lost, and how one's own soul may no longer reincarnate. It's signed, at the bottom - \"Yuyuko\".",
+		"DESCRIPTIONS":["At the start of each turn, gain #b1 #yStrength and #yDexterity for every #b3 #yAethercharge."]
+	},
+
+	"SoulResidue_Pink": {
+		"NAME":"Vessel of Forsaken Souls",
+		"FLAVOR":"This vessel, linked to the Spire's heart, has inadvertently summoned the presence of the Saigyou Ayakashi by consuming many souls.",
+		"DESCRIPTIONS":["At the start of each combat, exhaust all Curses in your draw pile. For each Curse exhausted this way, shuffle a #yReincarnation into your draw pile."]
+	},
+
+	"SoulContainer_Pink": {
+		"NAME":"Soul Crucible",
+		"FLAVOR":"\"I sense utter corruption from that place...are you sure you want to go there by yourself?\"",
+		"DESCRIPTIONS":["At the start of each combat, gain #yPlated #yArmor equal to your #yAethercharge and #rSoul #rOverload, increasing damage taken by #b20% - #b30% depending on Ascension level."]
+	},
+
+	"LostButterfly_Pink":{
+		"NAME":"Lost Butterfly",
+		"FLAVOR":"\"I always feel that things are not so simple as they seem... No, I have to go and have a look.\"",
+		"DESCRIPTIONS":["Upon pickup, add a #rNecronomicurse to your deck. At the start of each combat, gain #b1 #yBuffer. Whenever you win a combat, if you have less than #b40 max. HP, gain #b1 max. HP."]
+	},
+
+	"FutureLifeObsession_Pink": {
+		"NAME":"Blade of Reincarnation",
+		"FLAVOR":"\"I must find her...and stop her.\"",
+		"DESCRIPTIONS":["You may now #ptravel to the #r\"the #rnexus #rof #rreincarnation\" at the top of the Spire."]
+	},
+
+	"BlessingsFromFriends_Pink": {
+		"NAME":"A Dear Friend's Blessings",
+		"FLAVOR":"\"In another time, in another place, under better circumstances...let us meet again.\"",
+		"DESCRIPTIONS":["Upon pickup, remove all curses from your deck, upgrade all cards, heal to full HP, and gain max. HP equal to the amount lost in #ythe #ybattle #yprior #yto #yobtaining #ythis #yrelic."]
+	}
+}

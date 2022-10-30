@@ -1,0 +1,28 @@
+{
+  "Character_Yuyuko_UI": {
+    "TEXT": [
+      "Ghostly former mistress of the long-gone Saigyouji clan, and manipulator of death itself. She ascends the Spire for an unknown purpose...",
+      "The Ghost Princess",
+      "Yuyuko Saigyouji",
+      "Is this where the souls of the dead go to reincarnate?",
+      "Are you...are you the source of all this corruption?"
+    ]
+  },
+
+  "FutureLifeHB":{
+    "TEXT": [
+      "Reincarnation",
+      "There are #b",
+      "  #yReincarnations in your hand. At the end of your turn, all enemies will lose #b",
+      " HP."
+    ]
+  },
+
+  "FanShowHB":{
+    "TEXT": [
+      "Aethercharge",
+      "Otherworldly energies, stored in your #yPhantasmal #yUchiwa, that can be utilized by various relics unique to [#e600e6]Yuyuko[]. Gains #b1 charge whenever you win against an #rElite. Currently, you have #b",
+      " charges. NL #rWARNING: Trading or losing your #yPhantasmal #yUchiwa may lead to unintended interactions with your #yAethercharges!"
+    ]
+  }
+}

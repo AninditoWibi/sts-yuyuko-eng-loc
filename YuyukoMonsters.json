@@ -1,0 +1,66 @@
+{
+  "Yakumo_Yukari_Pink": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "A Desperate Friend",
+    "DIALOG": [
+      "This time, I must save you.",
+      "Please, cooperate with me, so that I can cleanse you of your corruption!",
+      "It will be ready soon!",
+      "@NO!!!@"
+    ]
+  },
+
+  "YukariShowEffect": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "Steps:",
+    "DIALOG": [
+      "Task to do this turn：",
+      "#yExhaust at least #b2 cards.",
+      "",
+      "Apply #yMoribund when the target has at least #b10 #yMoribund.",
+      "",
+      "Play at least 2 #yAttacks.",
+      "",
+      "Play at least 3 #ySkills.",
+      "",
+      "Gain any #yBlock when you have at least #b20 #yBlock.",
+      "Gain any amount of #ySakura and #yButterfly when you have at least #b3 #yPhantasm.",
+      "Your hand has reached the upper limit.",
+      "Play at least 2 #yPowers."
+    ]
+  },
+
+  "Yakumo_Yukari_friendly_Pink": {
+    "MOVES": [
+      "Steps"
+    ],
+    "NAME": "A Stalwart Friend",
+    "DIALOG": [
+      "We managed to buy quite some time...",
+      "It can't even touch you. Brilliant!",
+      "Task to do this turn：",
+      "Play at least #b4 #yAttacks",
+      "Play at least #b5 #ySkills.",
+      "Your hand has reached the upper limit.",
+      "Play #b6 cards.",
+      "She will heal your HP."
+    ]
+  },
+
+  "Finalboss_CorruptHeart_Pink": {
+    "MOVES": [
+      ""
+    ],
+    "NAME": "The Devourer of Souls",
+    "DIALOG": [
+      " @All@ @that@ @is...@ @shall@ @be@ @mine@ @to@ @consume!@ ",
+      " @Graaaaaaahhhh!!@ ",
+      " @I@ @have@ @gained@ @power@ @untold!@ "
+
+    ]
+  }
+}

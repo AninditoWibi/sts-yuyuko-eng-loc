@@ -1,0 +1,244 @@
+{
+  "LostSoulsEvent_Pink": {
+    "NAME": "The Spire of Lost Souls",
+    "DESCRIPTIONS": [
+      "Your investigations regarding the disappearance of the \"demon tree\" - the #rSaigyou #rAyakashi - from the Netherworld has led you here. Your intuition tells you that it has taken residence high above in this Spire. NL NL In order to ascertain the Saigyou Ayakashi's whereabouts, you feel you have to make good use of your powers.",
+      "You sense an ~innumerable~ amount of souls wandering the Spire, many of which retain a #bstrong #bwill from their past lives. NL NL As the lord of the Netherworld, you know that these souls exist in an unusual state. There will be #rrisks in #ydiscovering them for yourself. NL NL You consider your options:",
+      "Exerting more of your power, you sense that #ba #bmajority of the souls are gathering inside the body of a #rpowerful #rentity, as if they were ~#yswallowed~ ~#yup.~ NL NL You decide a vessel is needed to contain these souls, even considering the dangers they present - the possibility of being #roverloaded with their energies.",
+      "You believe you might be able to encounter the massed souls if you #ystart #yfrom #ythe #ybottom of this Spire. NL NL You feel there is no particular need to look into the matter further, and so you decide to leave.",
+      "You leave."
+    ],
+    "OPTIONS": [
+      "[Begin further investigation]",
+      "[Conjure a container] #gGain #ga #gRelic: #g[Soul #gCrucible] ",
+      "[Abandon the investigation]",
+      "[Continue]",
+      "[Leave]"
+    ]
+  },
+
+  "SpiritualErosion_Pink": {
+    "NAME": "Corruption Beckons",
+    "DESCRIPTIONS": [
+      "As you arrive at the second tier of the Spire, you feel #bsomething #bwithin #byou ~changing.~ NL NL An #pinscrutable, #pfell #pwill within you swells, gradually #rtaking #rcontrol of your body and #rweakening it. NL NL You must find a way to #gexpel it as soon as possible.",
+      "The #ycrucible of souls you conjured earlier @pulsates@ as it is pointed at a certain direction. You follow the path it guides you through. NL NL At the end of the path, you find a lone, #yunique #ybutterfly. Its soul signature is clear – this is a ~manifestation~ of the #rSaigyou #rAyakashi. You feel the #pdark #pwill inside you momentarily #gfading as you approach.",
+      "Though you feel better for now, you realize you will not remain so for long. You believe that this #pmalefic #pwill inside you comes from #ran #rentity at the top of the tower, #reating #raway slowly at your soul and #rcorrupting it. NL NL Your objective is clear - the source of this corruption must be #yeliminated as soon as possible.",
+      "Although you try your best to resist, the sheer #rmalignity of the #pwill @forces@ @itself@ into your mind. NL You realize that if this continues, it won't be long before #ryou #rlose #ryourself to it. NL NL You exert your powers, #rovertaxing it momentarily, to resist the influence of this #pmalevolent #pwill on you. Still, you know this is not a long-term solution. The source of this corruption must be #yeliminated as soon as possible."
+    ],
+    "OPTIONS": [
+      "[Forge a path]",
+      "[Take it] #gGain #ga #gRelic: #g[Lost #gButterfly] ",
+      "[Resist] #rLose #r20% of your #rmax. #rHP.",
+      "[Leave]"
+    ]
+  },
+
+  "previousIncarnations_Pink": {
+    "NAME": "Reflections of the Self",
+    "DESCRIPTIONS": [
+      "Within moments of entering the third tier of the Spire, you notice a mysterious figure #ycompletely #yidentical to you in the distance. NL NL Though you don’t remember ever seeing this mysterious figure, you feel something about her being #yvery #yfamiliar, as if she is #byourself.",
+      "You see the mysterious figure silently pointing to the top of the tower – to a place where numerous [#e600e6]cherry[] [#e600e6]blossom[] trees are in full bloom. NL NL A rushing flood of memories and images @overwhelm@ you in a split second. Realization dawns – that figure #ris #ryou, or rather, an image of your past life! NL NL As you regain focus, you feel that there remains an #yindescribable #yhole in your memories...",
+      "All souls long for #yreincarnation - in your heart of hearts, you know this to be a fact of life itself. NL NL Your consciousness becomes gradually overcome by ~another~ ~wave~ ~of~ ~memories...~"
+    ],
+    "OPTIONS": [
+      "[Continue] #gGain #ga #gRelic: #g[Blade #gof #gReincarnation] ",
+      "[Keep going...]"
+    ]
+  },
+
+    "TheEnd_Yuyuko_Pink": {
+    "NAME": "Through the Eyes of Madness",
+    "DESCRIPTIONS": [
+      "Sensing your presence, the figure of a #yfamiliar #ywoman appears in front of you.",
+      "You feel as though you have finally remembered #ysomething #yimportant about her, but the #pmalevolent #pwill in your mind suddenly begins to #rtake #rhold once more. NL NL The sound of #ryour #rheartbeats tells you that you have only one goal. NL NL #pReach #pthe #ptop #pof #pthe #ptower, #pthe #pnexus #pof #preincarnation. NL NL @NO@ @ONE@ @WILL@ @STOP@ @YOU@.",
+      "Like a spark of dawn's light piercing the endless darkness, you realize who #ythe #yfigure #ybefore #yyou are. NL You take in the moment of #bheartfelt #breunion. Though there remains the tiniest bit of doubt in your mind, you cast it aside, for you have freed yourself from the grasp of the #pmalevolent #pwill. NL NL Beyond the shadow of a doubt, the Spire's rampant corruption #gcan #gno #glonger #gaffect #gyou. You steel yourself, as you prepare to face #rthe #rlast #renemy #rthat #rshall #rbe #rdestroyed."
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Attack]",
+      "[Accept her blessings]",
+      "[The end is near.]"
+    ]
+  },
+
+  "BigFish_Yuyuko_Pink": {
+    "NAME": "Big Fish",
+    "DESCRIPTIONS": [
+      "As you make your way down a long corridor you see a #ybanana, a #ydonut, and a #ybox ~floating~ about. No... upon closer inspection they are tied to strings coming from holes in the ceiling. There is a quiet @cackling@ from above as you approach the objects. NL What do you do?",
+      "You eat the #ybanana. It is nutritious and slightly #bmagical, healing you.",
+      "You eat the #ydonut. It really hits the spot! Your Max HP increases.",
+      "",
+      "You grab the box. Inside you find a #yrelic!",
+      " NL However, you really craved the donut... NL You are filled with ~sadness,~ but mostly #rregret.",
+      "You ate both the #ybanana and the #ydonut...and such was your appetite that you even ate the #ybox, and whatever was inside. NL NL You leave, feeling #gvery #gsatisfied and #gempowered."
+    ],
+    "OPTIONS": [
+      "[Banana] #gHeal #g",
+      " #gHP.",
+      "[Donut] #gMax #gHP #g+",
+      ".",
+      "[Box] #gObtain #ga #gRelic. #rBecome #rCursed #r- #rRegret.",
+      "[I want them all!] Gain 1 #yAethercharge and #gMaxHP #g+",
+      "[Leave]"
+    ]
+  },
+
+  "Falling_Yuyuko_Pink": {
+    "NAME": "Falling",
+    "DESCRIPTIONS": [
+      "As you head upwards ~hovering~ from one floating shape to another, you are suddenly pulled downwards by an unseen force, causing you to lose your balance. NL NL You start to fall.",
+      "While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
+      "You land with extreme grace before continuing on.",
+      "Harnessing and expending some of your raw power, you manage to land unhurt.",
+      "You are able to latch on to the wall, and manage to make a short hop onto another stable platform.",
+      "You continue falling, yet you descend as slow as a feather, landing on the ground without a scratch."
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Land] #rLose ",
+      "[Locked] Requires: Skill Card",
+      "[Channel] #rLose ",
+      "[Locked] Requires: Power Card",
+      "[Strike] #rLose ",
+      "[Locked] Requires: Attack Card",
+      "[Leave]",
+      "[Land] "
+    ]
+  },
+
+  "ForgottenAltar_Yuyuko_Pink": {
+    "NAME": "Forgotten Altar",
+    "DESCRIPTIONS": [
+      "In front of you sits an altar to a forgotten god. NL Atop the altar sits an ornate female statue with arms outstretched. NL She calls out to you, demanding sacrifice.",
+      "As you gently set the idol onto the altar a #bcold wind swirls throughout the room. NL The arms of the statue begin to discolor and crumble. NL NL Your #ygolden #yidol begins to dull in color and begins bleeding from its eyes. NL The bleeding never ceases.",
+      "You stand on the altar and cut your wrists, but no blood flowed out... You stand there, confused - before realizing that, as a ghost, you have no blood to spill. What you failed to notice in your moment of realization, however, are the arms of the statue ~reaching~ ~out~ and closing around your head. NL Everything goes dark. NL You wake up a short time later feeling a new potential surging through you.",
+      "You lash out and smash the statue in front of you, breaking the magical hold the room had placed upon you. NL A dark wail echoes all around you, and you can feel the #p~cursed~ #p~magic~ seep into your being."
+    ],
+    "OPTIONS": [
+      "[Offer: Golden Idol] #gObtain #ga #gspecial #gRelic. #rLose #rGolden #rIdol.",
+      "[Locked] Requires: Golden Idol.",
+      "[Sacrifice] #gGain #g",
+      " #rHP.",
+      "[Desecrate] #rBecome #rCursed #r- #rDecay."
+    ]
+  },
+
+  "Ghosts_Yuyuko_Pink": {
+    "NAME": "Council of Ghosts",
+    "DESCRIPTIONS": [
+      "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKES@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
+      "",
+      " ~\"Wait- are you..?\"~ NL NL You feel the gaze of the three beings upon you, palpable from even behind their masks. NL You extend your hand to beckon them towards you, offering repose for them if they would follow you unto the Netherworld. NL As they merge into your form, you continue on, feeling ever so slightly #bhollow.",
+      "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
+      ""
+    ],
+    "OPTIONS": [
+      "[Accept] #gReceive #g5 Apparition. #rLose #r",
+      " #rMax #rHP.",
+      "[Refuse]",
+      "[Accept] #gReceive #g3 Apparition. #rLose #r",
+      "",
+      "[Leave]"
+    ]
+  },
+
+  "KnowingSkull_Yuyuko_Pink": {
+    "NAME": "Knowing Skull",
+    "DESCRIPTIONS": [
+      "You find yourself in an old, decorated chamber. In the center of the room, a large skull sits atop an ornate pedestal. As you approach, the skull #g@bursts@ #g@into@ #g@flames@ and turns to face you.",
+      "\"WHAT IS IT YOU SEEK? WHAT IS IT YOU OFFER?\" NL In sync with its final words, the door behind you @slams@ @shut.@",
+      "You see before you visions of a #ymysterious #yfigure with a #rfell aura. NL NL \"ANYTHING ELSE?\"",
+      " ",
+      "\"DRINK UP!\" NL You obtain a potion.",
+      "\"PERHAPS THIS WILL HELP?\" NL You obtain a card.",
+      "\"IT IS DONE.\" NL #yGold rains down on you!",
+      "\"BEHIND YOU, SPIRIT.\" NL You peek behind the skull. Surely enough, there is a door. NL NL As you leave, the spirit inside the skull ponders the significance of your visit. \"WHY DID SHE COME HERE...?\""
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      " #rHP.",
+      "[Information?] #gReveal #gthe #gBoss. #rLose #r",
+      "[Success?] #gGet #ga #gColorless #gCard. #rLose #r",
+      "[A Pick Me Up?] #gGet #ga #gPotion. #rLose #r",
+      "[Riches?] #gGain #g",
+      " #gGold. #rLose #r",
+      "[How do I leave?] #rLose #r",
+      "[Leave]"
+    ]
+  },
+
+  "Vampires_Yuyuko_Pink": {
+    "NAME": "Vampires(?)",
+    "DESCRIPTIONS": [
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. NL NL As you approach, you notice a familiar figure among them - a blond girl in red, the #ysister of the #rScarlet #rDevil. She seems to be asking for something from these hooded figures. NL NL You consider your options...",
+      "You observe quietly from afar. One among the hooded figures begin to chant something, as all of them #yprostrate before the #yblond girl in what seems to be an act of worship. NL NL After some time, the hooded figures rise onto their feet, as the #yblond girl flies away. You approach them to ask for information, but as you do, they suddenly turn to face you. NL NL You notice the #r@crazed@ expressions upon their faces...",
+      "You step away silently, so as to not attract their attention. After some time, you are alone once more.",
+      "Once the dust of battle has settled, you search the corpses of the hooded figures, finding some #ginteresting items in the process."
+    ],
+    "OPTIONS": [
+      "[Observe for a while]",
+      "[Prepare for battle]",
+      "[It's time to leave] ",
+      "[Leave]",
+      "[Search the bodies]"
+    ]
+  },
+
+  "Nest_Yuyuko_Pink": {
+    "NAME": "The Nest",
+    "DESCRIPTIONS": [
+      "A long line of #b~hooded~ #b~figures~ can be seen entering NL an #punassuming #pcathedral.",
+      "Naturally, you join the line and are quickly surrounded by #rCultists! NL They ignore you as they gleefully @chant@ and ~wave~ their weapons around. NL NL #r@\"MURDER!!@ #r@MURDER@ #r@MURDER!!\"@ NL #b~\"CAW~ #b~CAW~ #b~CAAAAAWWW!\"~ NL #r@\"MURDER!@ #r@MURDER@ #r@MUURDER!!\"@ NL #b~\"CAAW~ #b~CAW~ #b~CAAAAAAWW!!\"~ NL NL You eye a #yDonation #yBox...",
+      "You decide to stay in line to see what will happen. NL NL Eventually, you are face-to-face with the leader. A well-dressed cultist hands you an #yOrnate #yDagger. Like the others before you, you slash your forearm. However, being a ghost, no blood flows from your wounded forearm. NL NL The cultists begin to @chant@ and @holler@ threateningly!~ NL NL You look around and feel the hostility of these cultists, as you see #r@murder@ in their eyes...",
+      "They didn't even notice.",
+      "Having ushered the souls of the few cultists foolish enough to #rattack you unto the Netherworld, you find that the rest of them have fled amid the commotion. NL NL As you look around, you notice a #gcurio on the ground - something that they must've #yleft in their hurry to escape your wrath."
+    ],
+    "OPTIONS": [
+      "[Stay in Line]",
+      " #rHP.",
+      "[Smash and Grab] #gObtain #g",
+      " #gGold.",
+      "[Leave]",
+      "[Continue]",
+      "[Prepare for battle] #rBegin #ra #rdifficult #rcombat.",
+      "[Search carefully]"
+    ]
+  },
+
+
+  "FaceTrader_Yuyuko_Pink": {
+    "NAME": "Face Trader",
+    "DESCRIPTIONS": [
+      "You walk by an eerie statue holding several masks... NL Something behind you softly whispers, NL ~\"Stop.\"~",
+      "You swerve around to face the statue which is now facing you! NL On closer inspection, it's not a statue but a statuesque, gaunt man. Is he even breathing? NL NL ~\"Face.~ ~Let~ ~me~ ~touch?~ ~Maybe~ ~trade?\"~",
+      "~\"Compensation?~ ~Compensation.\"~ NL Mechanically, he cranes out a neat stack of #ygold and places it into your pouch. NL NL ~\"What~ ~a~ ~nice~ ~face.~ ~Nice~ ~face.\"~ NL As he touches your cheek, you see his face contort in fear - his own life force is draining! NL During this, his mask falls off and shatters. Screaming, he quickly covers his face with all six arms dropping even more masks! NL NL  Amidst all the screaming and shattering, you ~quietly~ leave, your face tinged with a small smile borne of #yschadenfreude.",
+      "~\"For~ ~me?~ @FOR@ @ME?@ ~Oh~ ~yes..~ ~Yes.~ ~Yes..~ ~mmm...\"~ NL NL You see one of his arms flicker as he casts what seems to be a spell. A face soon materializes in his hands - except, it was his own! He screams in agony. NL \" #r@You!@ #r@What@ #r@have@ #r@you@ #r@done?!@ \" NL NL Taking advantage of his momentary distress, you make your exit, but not before snatching one of his masks.",
+      "~\"Stop.~ ~Stop.~ ~Stop.~ ~Stop.~ ~Stop.\"~ NL NL This was probably the right call."
+    ],
+    "OPTIONS": [
+      "[Touch] #rLose #r",
+      " #gGold.",
+      "[Trade] #g50%: #gGood #gFace. #r50%: #rBad #rFace.",
+      "[Leave]",
+      "[Continue]"
+    ]
+  },
+
+
+  "NoteForYourself_Yuyuko_Pink": {
+    "NAME": "A Note For Yourself",
+    "DESCRIPTIONS": [
+      "You spot a loose brick within a pillar that catches your eye.",
+      "You find a folded note and a #ycard inside. It reads, NL ~\"Reincarnation~ ~awaits.\"~ NL NL This is your handwriting.",
+      "Choose a card to store.",
+      "What is going on?"
+    ],
+    "OPTIONS": [
+      "[Continue]",
+      "[Take and Give] #gReceive ",
+      " #gand #gStore #ga #gCard.",
+      "[Ignore]",
+      "[Leave]"
+    ]
+  }
+}
