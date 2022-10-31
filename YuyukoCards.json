@@ -78,7 +78,7 @@
 	},
 	"EndlessRoad_Pink": {
 		"NAME":"Trackless Path",
-		"DESCRIPTION": "Delicate. NL Apply !M! Weak and Moribund. If this card is discarded from your hand, gain 1 Sakura."
+		"DESCRIPTION": "Delicate. NL Apply !M! Weak and Moribund to all enemies. If this card is discarded from your hand, gain 1 Sakura."
 	},
 	"EndlessSuffering_Pink": {
 		"NAME":"Tormented Souls",
@@ -279,7 +279,7 @@
 		"DESCRIPTION": "Deal !D! damage. Aetherial. NL Sakura 2: Apply !M! Moribund. NL Butterfly 2: Apply Moribund to all other enemies equal to the target's Moribund."
 	},
 	"WhyToBecomeBuddha_Pink": {
-		"NAME":"Soul Transcendence",
+		"NAME":"Afterlife's Peace",
 		"DESCRIPTION": "Gain !B! Block. Aetherial. NL Sakura 1: Block is not removed at the start of your next turn. NL Butterfly 1: Add !M! Reincarnation into your hand."
 	},
 
@@ -300,7 +300,7 @@
 	},
 	"ChangeoverTheLife_Pink": {
 		"NAME":"Ego Death",
-		"DESCRIPTION": "Deal !D! damage twice. If the target has 5 or less Moribund, decrease the damage of this card by 2 this combat."
+		"DESCRIPTION": "Deal !D! damage twice. If the target has less than 6 Moribund, decrease the damage of this card by 2 this combat."
 	},
 	"Complete_Ink_Sakura_Pink": {
 		"NAME":"Ink-Black Sakura",

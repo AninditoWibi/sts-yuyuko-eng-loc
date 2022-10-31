@@ -3,7 +3,7 @@
 
 		"NAME": "Sakura",
 
-		"DESCRIPTIONS": ["Representing the remnants of the departed, #ySakura stacks can trigger the additional effects of #yAetherial cards. You currently have #b"," #ySakura."]
+		"DESCRIPTIONS": ["Resource used to activate the effects of #yAetherial cards. You currently have #b"," #ySakura. Once per turn, whenever you gain #ySakura past #b2 stacks, you may choose 1 of 2 beneficial effects to activate."]
 
 	},
 
@@ -11,7 +11,7 @@
 
 		"NAME": "Butterfly",
 
-		"DESCRIPTIONS": ["Representing the souls of the dead, #yButterfly stacks can trigger the additional effects of #yAetherial cards. You currently have #b"," #yButterfly."]
+		"DESCRIPTIONS": ["Resource used to activate the effects of #yAetherial cards. You currently have #b"," #yButterfly. Once per turn, whenever you gain #yButterfly past #b2 stacks, you may choose 1 of 2 beneficial effects to activate."]
 
 	},
 
@@ -33,7 +33,7 @@
 
 	"DeathCoil_Pink": {
 
-		"NAME": "Deadly Butterfly",
+		"NAME": "Wings of Death",
 
 		"DESCRIPTIONS": ["Whenever you apply a debuff to an enemy, deal #b"," damage."]
 
@@ -44,7 +44,7 @@
 
 		"NAME": "Moribund",
 
-		"DESCRIPTIONS": ["Bearing signs that the end is nigh. This creature deals #b2 less damage for every #b2 stacks of this debuff, up to a maximum of #b5 less damage. When it dies, you heal #b"," HP. A maximum of #b5 HP may be healed this way."]
+		"DESCRIPTIONS": ["This creature deals #b2 less damage for every #b2 stacks of this debuff, up to a maximum of #b5 less damage. If it dies, you heal #b"," HP."]
 	},
 
 	"DeadButterfliesFloatOnPower": {
@@ -58,14 +58,14 @@
 
 		"NAME": "Eternal Death",
 
-		"DESCRIPTIONS": ["Whenever you cause an enemy to lose HP, that enemy gains #b"," #yMoribund.  Whenever an enemy gains #yMoribund, gain #b"," #yBlock."]
+		"DESCRIPTIONS": ["Whenever you cause an enemy to lose HP, that enemy gains #b"," #yMoribund. Whenever an enemy gains #yMoribund, gain #b"," #yBlock."]
 	},
 
 	"DeathByDiffusionPower": {
 
 		"NAME": "Black Death",
 
-		"DESCRIPTIONS": ["Whenever an Attack deals unblocked damage, apply #b"," #yMoribund. At the end of your turn, automatically kill any enemy whose HP is less than twice the amount of their Moribund stacks."]
+		"DESCRIPTIONS": ["Whenever an #bAttack deals unblocked damage, apply #b"," #yMoribund. At the end of your turn, automatically kill any enemy whose HP is less than twice the amount of their #yMoribund stacks."]
 	},
 
 	"TheWayToLifePower": {
@@ -79,14 +79,14 @@
 
 		"NAME": "Life's Agonies",
 
-		"DESCRIPTIONS": ["The first card you play each turn that grants Sakura or Butterfly grants #b"," more stacks of that power."]
+		"DESCRIPTIONS": ["The first card you play each turn that grants #ySakura or #yButterfly grants #b"," more stacks of that power."]
 	},
 
 	"Sakura_Butterfly_Fantasy_FullBloom_Power": {
 
 		"NAME": "Dying Dream",
 
-		"DESCRIPTIONS": ["Your Sakura and Butterfly stacks are no longer capped at #b3."]
+		"DESCRIPTIONS": ["Your #ySakura and #yButterfly stacks are no longer capped at #b3."]
 	},
 
 	"Sakura_Butterfly_Fantasy_Death_Power": {
@@ -112,7 +112,7 @@
 
 	"ThousandsOfSakuraPower": {
 
-		"NAME": "Thousand Cherry Blossoms",
+		"NAME": "Endless Spring",
 
 		"DESCRIPTIONS": ["Whenever you play the rightmost card in your hand, draw #b1 card. This effect can be activated up to #b3 times per turn."]
 	},
@@ -171,7 +171,7 @@
 
 		"NAME": "Soul Overload",
 
-		"DESCRIPTIONS": ["Damage received is increased by #b"," %. Cannot be removed."]
+		"DESCRIPTIONS": ["Damage received is increased by #b","%. Cannot be removed."]
 	},
 
 
@@ -189,7 +189,7 @@
 			" #ySkills.",
 			"Completed.",
 			"Not completed.",
-			" At the end of your turn, if you have not completed all denoted steps, you will lose #r",
+			"At the end of your turn, if you have not completed the denoted task, you will lose #r",
 			" max. HP, and she will #rlose #b20 HP. If you have, she will instead #gheal #b20 HP. ",
 			" #rWARNING: Your life is bound to hers. If she dies, #rso #rwill #ryou. ",
 			" #gSurvive #gfor #g6 #gturns. "
@@ -274,7 +274,7 @@
 
 	"AutomaticBarrierPower_Pink": {
 
-		"NAME": "Demonic Defense",
+		"NAME": "Ward of Evil",
 
 		"DESCRIPTIONS": [
 			"Gains #b2 #yBuffer every #b4 turns."

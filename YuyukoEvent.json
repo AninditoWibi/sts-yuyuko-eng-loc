@@ -3,10 +3,10 @@
     "NAME": "The Spire of Lost Souls",
     "DESCRIPTIONS": [
       "Your investigations regarding the disappearance of the \"demon tree\" - the #rSaigyou #rAyakashi - from the Netherworld has led you here. Your intuition tells you that it has taken residence high above in this Spire. NL NL In order to ascertain the Saigyou Ayakashi's whereabouts, you feel you have to make good use of your powers.",
-      "You sense an ~innumerable~ amount of souls wandering the Spire, many of which retain a #bstrong #bwill from their past lives. NL NL As the lord of the Netherworld, you know that these souls exist in an unusual state. There will be #rrisks in #ydiscovering them for yourself. NL NL You consider your options:",
-      "Exerting more of your power, you sense that #ba #bmajority of the souls are gathering inside the body of a #rpowerful #rentity, as if they were ~#yswallowed~ ~#yup.~ NL NL You decide a vessel is needed to contain these souls, even considering the dangers they present - the possibility of being #roverloaded with their energies.",
-      "You believe you might be able to encounter the massed souls if you #ystart #yfrom #ythe #ybottom of this Spire. NL NL You feel there is no particular need to look into the matter further, and so you decide to leave.",
-      "You leave."
+      "You sense an ~innumerable~ amount of souls wandering the Spire, many of which retain a #bstrong #bwill from their past lives. NL NL As the lord of the Netherworld, you know that these souls exist in a highly abnormal state. There will be #rrisks in #ydiscovering them for yourself. NL NL You consider your options:",
+      "Exerting more of your power, you sense that #ba #bmajority of the souls are gathering inside the body of a #rpowerful #rentity, as if they were #y~swallowed~ #y~up.~ NL NL You decide a #yvessel is needed to contain these souls, even considering the dangers they present - the possibility of being #roverloaded with their energies.",
+      "You believe you might be able to find the massed souls if you #ystart #yfrom #ythe #ybottom of this Spire and ascend normally. NL NL As such, you feel there is no particular need to look into the matter further.",
+      "You leave, beginning your ascent..."
     ],
     "OPTIONS": [
       "[Begin further investigation]",
@@ -21,7 +21,7 @@
     "NAME": "Corruption Beckons",
     "DESCRIPTIONS": [
       "As you arrive at the second tier of the Spire, you feel #bsomething #bwithin #byou ~changing.~ NL NL An #pinscrutable, #pfell #pwill within you swells, gradually #rtaking #rcontrol of your body and #rweakening it. NL NL You must find a way to #gexpel it as soon as possible.",
-      "The #ycrucible of souls you conjured earlier @pulsates@ as it is pointed at a certain direction. You follow the path it guides you through. NL NL At the end of the path, you find a lone, #yunique #ybutterfly. Its soul signature is clear – this is a ~manifestation~ of the #rSaigyou #rAyakashi. You feel the #pdark #pwill inside you momentarily #gfading as you approach.",
+      "You notice that the #ycrucible of souls you conjured earlier @pulsates@ as it is pointed at a certain direction. You follow the path it guides you through. NL NL At the end of the path, you find a lone, #yunique #ybutterfly. Its soul signature is clear – this is a ~manifestation~ of the #rSaigyou #rAyakashi. You feel the #pdark #pwill inside you momentarily #gfading as you approach.",
       "Though you feel better for now, you realize you will not remain so for long. You believe that this #pmalefic #pwill inside you comes from #ran #rentity at the top of the tower, #reating #raway slowly at your soul and #rcorrupting it. NL NL Your objective is clear - the source of this corruption must be #yeliminated as soon as possible.",
       "Although you try your best to resist, the sheer #rmalignity of the #pwill @forces@ @itself@ into your mind. NL You realize that if this continues, it won't be long before #ryou #rlose #ryourself to it. NL NL You exert your powers, #rovertaxing it momentarily, to resist the influence of this #pmalevolent #pwill on you. Still, you know this is not a long-term solution. The source of this corruption must be #yeliminated as soon as possible."
     ],
@@ -36,8 +36,8 @@
   "previousIncarnations_Pink": {
     "NAME": "Reflections of the Self",
     "DESCRIPTIONS": [
-      "Within moments of entering the third tier of the Spire, you notice a mysterious figure #ycompletely #yidentical to you in the distance. NL NL Though you don’t remember ever seeing this mysterious figure, you feel something about her being #yvery #yfamiliar, as if she is #byourself.",
-      "You see the mysterious figure silently pointing to the top of the tower – to a place where numerous [#e600e6]cherry[] [#e600e6]blossom[] trees are in full bloom. NL NL A rushing flood of memories and images @overwhelm@ you in a split second. Realization dawns – that figure #ris #ryou, or rather, an image of your past life! NL NL As you regain focus, you feel that there remains an #yindescribable #yhole in your memories...",
+      "Within moments of entering the third tier of the Spire, you notice a mysterious figure #ycompletely #yidentical to you in the distance. NL NL Though you don't remember ever seeing this mysterious figure, you feel something about her being #yvery #yfamiliar, as if she is #byourself.",
+      "You see the mysterious figure silently pointing to the top of the tower – to a place where numerous [#e600e6]cherry[] [#e600e6]blossom[] trees are in full bloom. NL NL A rushing flood of memories and images @overwhelm@ you in a split second. Realization dawns – that figure indeed #ris #ryou, or rather, an image of your past life! NL NL As you regain focus, you feel that there remains an #yindescribable #yhole in your memories...",
       "All souls long for #yreincarnation - in your heart of hearts, you know this to be a fact of life itself. NL NL Your consciousness becomes gradually overcome by ~another~ ~wave~ ~of~ ~memories...~"
     ],
     "OPTIONS": [
@@ -50,8 +50,8 @@
     "NAME": "Through the Eyes of Madness",
     "DESCRIPTIONS": [
       "Sensing your presence, the figure of a #yfamiliar #ywoman appears in front of you.",
-      "You feel as though you have finally remembered #ysomething #yimportant about her, but the #pmalevolent #pwill in your mind suddenly begins to #rtake #rhold once more. NL NL The sound of #ryour #rheartbeats tells you that you have only one goal. NL NL #pReach #pthe #ptop #pof #pthe #ptower, #pthe #pnexus #pof #preincarnation. NL NL @NO@ @ONE@ @WILL@ @STOP@ @YOU@.",
-      "Like a spark of dawn's light piercing the endless darkness, you realize who #ythe #yfigure #ybefore #yyou are. NL You take in the moment of #bheartfelt #breunion. Though there remains the tiniest bit of doubt in your mind, you cast it aside, for you have freed yourself from the grasp of the #pmalevolent #pwill. NL NL Beyond the shadow of a doubt, the Spire's rampant corruption #gcan #gno #glonger #gaffect #gyou. You steel yourself, as you prepare to face #rthe #rlast #renemy #rthat #rshall #rbe #rdestroyed."
+      "You feel as though you remember #ysomething #yimportant about her, but the #pmalevolent #pwill in your mind suddenly begins to #rtake #rhold once more. NL NL The @deafening@ sound of #ryour #rheartbeats tells you that you have only one goal. NL NL #pReach #pthe #ptop #pof #pthe #ptower, #pthe #pnexus #pof #preincarnation. NL NL @NO@ @ONE@ @WILL@ @STOP@ @YOU.@",
+      "Like a spark of dawn's light piercing the endless darkness, you realize who #ythe #yfigure #ybefore #yyou are. NL You take in the moment of #bheartfelt #breunion. Though there remains the tiniest bit of doubt in your mind, you cast it aside, for you have broken free from the grasp of the #pmalevolent #pwill. NL NL Beyond the shadow of a doubt, the Spire's rampant corruption #gcan #gno #glonger #gaffect #gyou. You steel yourself, as you prepare to face #rthe #rlast #renemy #rthat #rshall #rbe #rdestroyed."
     ],
     "OPTIONS": [
       "[Continue]",
@@ -86,7 +86,7 @@
   "Falling_Yuyuko_Pink": {
     "NAME": "Falling",
     "DESCRIPTIONS": [
-      "As you head upwards ~hovering~ from one floating shape to another, you are suddenly pulled downwards by an unseen force, causing you to lose your balance. NL NL You start to fall.",
+      "As you head upwards ~hovering~ from one floating shape to another, you are suddenly pulled downwards by ~an~ ~unseen~ ~force~, causing you to lose your balance. NL NL You start to fall.",
       "While in free fall you consider your options: NL Land safely with your greatest techniques. NL Channel a Power to survive the fall. NL Strike at the wall to hang on to it.",
       "You land with extreme grace before continuing on.",
       "Harnessing and expending some of your raw power, you manage to land unhurt.",
@@ -128,7 +128,7 @@
     "DESCRIPTIONS": [
       "As you continue your ascent, #p~thick~ #p~black~ #p~smoke~ begins to billow out of the ground and walls around you, coalescing into three masked forms that start to speak. NL NL ~\"Another~ ~puppet~ ~of~ #y~Neow~ ~I~ ~think.\"~ NL #r@\"AGREED!@ #r@SHE@ #r@ALWAYS@ #r@MAKES@ #r@THE@ #r@FUNNEST@ #r@TOYS!\"@ NL NL You notice an over-sized grin as the third addresses you. NL \"Ignore the others... Would you like a taste of our #y~power?\"~ ",
       "",
-      " ~\"Wait- are you..?\"~ NL NL You feel the gaze of the three beings upon you, palpable from even behind their masks. NL You extend your hand to beckon them towards you, offering repose for them if they would follow you unto the Netherworld. NL As they merge into your form, you continue on, feeling ever so slightly #bhollow.",
+      " ~\"Wait-~ ~are~ ~you..?\"~ NL NL You feel the gaze of the three beings upon you, palpable from even behind their masks. NL You extend your hand to beckon them towards you, offering repose for them if they would follow you unto the Netherworld. NL As they merge into your form, you continue on, feeling ever so slightly #bhollow.",
       "\"How disappointing...\" NL ~\"You~ ~will~ ~join~ ~us~ ~sooner~ ~or~ ~later.\"~ NL #r@\"HA@ #r@HA@ #r@HA@ #r@HAHAHA!\"@ NL NL The shapes fade away, leaving only the unnerving laughter ringing in your ears.",
       ""
     ],
@@ -170,7 +170,7 @@
   "Vampires_Yuyuko_Pink": {
     "NAME": "Vampires(?)",
     "DESCRIPTIONS": [
-      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. NL NL As you approach, you notice a familiar figure among them - a blond girl in red, the #ysister of the #rScarlet #rDevil. She seems to be asking for something from these hooded figures. NL NL You consider your options...",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. NL NL As you approach, you notice a familiar figure among them - a #yblond girl in #rred, the #ysister of the #rScarlet #rDevil. She seems to be asking for something from these hooded figures. NL NL You consider your options...",
       "You observe quietly from afar. One among the hooded figures begin to chant something, as all of them #yprostrate before the #yblond girl in what seems to be an act of worship. NL NL After some time, the hooded figures rise onto their feet, as the #yblond girl flies away. You approach them to ask for information, but as you do, they suddenly turn to face you. NL NL You notice the #r@crazed@ expressions upon their faces...",
       "You step away silently, so as to not attract their attention. After some time, you are alone once more.",
       "Once the dust of battle has settled, you search the corpses of the hooded figures, finding some #ginteresting items in the process."

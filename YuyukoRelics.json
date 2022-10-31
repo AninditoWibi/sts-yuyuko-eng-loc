@@ -43,7 +43,7 @@
 
 	"TheStoryOfSaving_Pink": {
 		"NAME":"Tales of a Resurrection",
-		"FLAVOR":"A written account penned by a woman who used her peculiar powers to save her fallen friend, warping her own body in the process. It's signed, at the bottom - \"Yukari\".",
+		"FLAVOR":"A written account penned by a woman who used her peculiar powers to save her fallen friend. It's signed, at the bottom - \"Yukari\".",
 		"DESCRIPTIONS":["At the start of each turn, gain [E] for every #b3 #yAethercharge."]
 	},
 

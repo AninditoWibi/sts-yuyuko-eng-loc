@@ -6,7 +6,15 @@
         "Aetherial",
         "aetherial"
       ],
-      "DESCRIPTION": "As [#e600e6]Yuyuko[], the first #bAttack or #bSkill you play each turn grants a unique resource. If it's an #bAttack, gain #b1 #ySakura. If it's a #bSkill, gain #b1 #yButterfly. Cards with #yAetherial have additional effects depending on whether you have sufficient #ySakura or #yButterfly stacks."
+      "DESCRIPTION": "Has additional effects that activate if you have sufficient #ySakura or #yButterfly stacks."
+    },
+
+    {
+      "NAMES": [
+        "Aethercharge",
+        "aethercharge"
+      ],
+      "DESCRIPTION": "A resource gained by defeating an #Elite, used with certain #yrelics. Has a maximum of #b6 stacks."
     },
 
     {
@@ -14,7 +22,7 @@
         "Phantasm",
         "phantasm"
       ],
-      "DESCRIPTION": "Representing the energies of the Netherworld, #yPhantasm is used to calculate the effects of various cards. Its value is equal to the total sum of your #ySakura and #yButterfly stacks."
+      "DESCRIPTION": "#yPhantasm is used to calculate the effects of various cards. Its value is equal to the total sum of your #ySakura and #yButterfly stacks."
     },
 
     {
@@ -22,7 +30,7 @@
         "Sakura",
         "sakura"
       ],
-      "DESCRIPTION": "Representing the remnants of the departed, #ySakura stacks can trigger the additional effects of #yAetherial cards. If you have at least #b2 stacks, then once per turn whenever you gain #ySakura, you may choose 1 of 2 beneficial effects to activate."
+      "DESCRIPTION": "A resource used with #yAetherial cards, gained by having the first card you play in a turn be an #yAttack."
     },
 
     {
@@ -30,38 +38,21 @@
         "Butterfly",
         "butterfly"
       ],
-      "DESCRIPTION": "Representing the souls of the dead, #yButterfly stacks can trigger the additional effects of #yAetherial cards. If you have at least #b2 stacks, then once per turn whenever you gain #yButterfly, you may choose 1 of 2 beneficial effects to activate."
+      "DESCRIPTION": "A resource used with #yAetherial cards, gained by having the first card you play in a turn be a #ySkill."
     },
 
     {
       "NAMES": [
         "Moribund","moribund"
       ],
-      "DESCRIPTION": "A unique debuff that reduces damage dealt by #b2 for every #b2 stacks of this debuff (max. 5). Whenever an enemy with #yMoribund dies, you regain HP. A maximum of #b5 HP may be healed this way."
+      "DESCRIPTION": "Reduces damage dealt by #b2 for every #b2 stacks, up to a maximum of #b5 less damage. When an enemy with #yMoribund dies, you heal up to #5 HP."
     },
 
     {
       "NAMES": [
         "Unearthly","unearthly"
       ],
-      "DESCRIPTION": "If a card with this keyword is discarded from your hand or exhausted, put a random card from your exhaust pile into your hand. That card gains #yEthereal for the rest of combat."
-    },
-
-    {
-      "NAMES": [
-        "Reincarnation",
-        "reincarnation"
-      ],
-      "DESCRIPTION": "An unplayable #rCurse card that is #yEthereal. If it is in your hand at the end of your turn, all enemies lose HP and the potency of HP loss from all future #yReincarnation cards are increased. NL #yReincarnation's potency is displayed on the left side of your screen."
-    },
-
-    {
-      "NAMES": [
-      "Quietus",
-      "quietus"
-      ],
-      "DESCRIPTION": "A playable, upgradable #rCurse card with #yRetain. When played, all enemies lose HP equal to the amount of #yMoribund stacks they have."
-
+      "DESCRIPTION": "If exhausted, put a random card from your exhaust pile into your hand. That card gains #yEthereal for the rest of combat."
     },
 
     {
